@@ -243,6 +243,6 @@ https://data.pyg.org/whl/torch-1.13.0%2Bcu116/torch_cluster-1.6.1%2Bpt113cu116-c
 https://data.pyg.org/whl/torch-1.13.0%2Bcu116/torch_scatter-2.1.1%2Bpt113cu116-cp39-cp39-linux_x86_64.whl
 torchmetrics==0.11.1
 pytorch_lightning~=1.9.3
-git+https://github.com/pyvista/fast-simplification.git
+git+https://github.com/pyvista/fast-simplification.git@v0.1.7#egg=fast-simplification
 git+https://github.com/skoch9/meshplot.git
 git+https://github.com/NVlabs/nvdiffrast/
